@@ -29,4 +29,4 @@ my nostr public key: [npub1q5h02vqj2cmszy0sj8aqwwqc6gwlrxckq96zc2kmtl2ynt40kt8sk
   <a href="mailto:manjustify@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>thanks for stopping by — go build something ⚡</i></p>
+<p align="center"><i>thanks for stopping by ⚡</i></p>
