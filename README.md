@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 about me
 
-- 🔭 mostly working on projects and tools that make life easier for everyone
+- 🔭 projects and tools that make life easier for everyone
 - 💬 nostr and bitcoin conversationalist
 
 my nostr public key: [npub1q5h02vqj2cmszy0sj8aqwwqc6gwlrxckq96zc2kmtl2ynt40kt8skugum9]
